@@ -24,7 +24,7 @@ La aplicación permite convertir cantidades de dinero entre distintas monedas, a
 ConversorDeMonedas/
 ├── src/
 │   ├── Calculo.java          # Lógica de conversión de monedas
-│   ├── Modelos.java          # Filtro de monedas / Historial de monedas / Atributos, getter y setters de las monedas /
+│   ├── Modelos.java          # Filtro de monedas / Historial de monedas / Atributos, getters y setters de las monedas /
 │   └── Principal.java        # Menú e interacción con el usuario mediante consola
 ├── .gitignore                # Archivos ignorados por Git
 ├── ConversorDeMonedas.iml    # Configuración del proyecto (Dependencia de la librería Gson)
@@ -40,7 +40,7 @@ ConversorDeMonedas/
   ```
 2. Descargar la librería Gson 2.13.2.
 3. Crear una carpeta llamada libs en el proyecto y copiar allí el archivo gson-2.13.2.jar.
-4. Abrir el proyecto en IntelliJ IDEA.
+4. Abrir el proyecto.
 5. Agregar el JAR:
 ``` 
 File /
