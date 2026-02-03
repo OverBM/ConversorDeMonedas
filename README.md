@@ -23,9 +23,9 @@ La aplicación permite convertir cantidades de dinero entre distintas monedas, a
 ``` 
 ConversorDeMonedas/
 ├── src/
-│   ├── Calculo.java          # Lógica de conversión de monedas
-│   ├── Modelos.java          # Filtro de monedas / Historial de monedas / Atributos, getters y setters de las monedas /
-│   └── Principal.java        # Menú e interacción con el usuario mediante consola
+│   ├── Calculo               # Lógica de conversión de monedas
+│   ├── Modelos               # Filtro de monedas / Historial de monedas / Atributos, getters y setters de las monedas /
+│   └── Principal             # Menú e interacción con el usuario mediante consola
 ├── .gitignore                # Archivos ignorados por Git
 ├── ConversorDeMonedas.iml    # Configuración del proyecto (Dependencia de la librería Gson)
 ``` 
